@@ -37,6 +37,17 @@ I'm a passionate Software Engineering student at **COMSATS University Islamabad,
 ### 🤝 Let's Connect
 
 I'm always interested in learning, sharing ideas, and collaborating with fellow developers. Let's build something amazing together! 💻✨
+
+
+<!-- Cyber Developer Animation -->
+<div align="center">
+  <img
+    src="./cyber_developer_animation.gif"
+    width="100%"
+    alt="Cyber Developer Animation"
+  />
+</div>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/share/1Bv3V6UooK/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imtiaz.ff) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imtiaz-hussain-59206738a) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@wattxff) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AmirMaqsoodIA) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCWwPFhqh5XUZmt0gGIbao3A) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imtiazwattoo238@gmail.com) 
 
